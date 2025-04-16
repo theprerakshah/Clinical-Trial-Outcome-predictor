@@ -1,13 +1,13 @@
 # Predicting Clinical Trial Outcomes using Machine Learning and Neo4j
 ---
 
-## 📘 Overview
+##  Overview
 
 This project aims to improve the accuracy and efficiency of predicting **clinical trial outcomes** by integrating **machine learning models** with a **Neo4j graph database**. We propose a relationship-based data modeling approach that leverages publicly available biomedical datasets and advanced data engineering methods to construct a scalable and high-performing prediction system.
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 The goal is to develop a predictive system that uses **drug bioactivity**, **disease associations**, and **trial metadata** to estimate the probability of clinical trial success or failure. This is achieved by:
 
@@ -18,7 +18,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## 🧠 Key Highlights
+##  Key Highlights
 
 - **Data Sources**: ChEMBL, DrugBank, CTD, AACT, UniProt  
 - **Graph Modeling**: Neo4j for managing drug–target–disease–trial relationships  
@@ -31,7 +31,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## 📁 Files in Repository
+##  Files in Repository
 
 - `Clinical_trial_predictor.ipynb` – Jupyter notebook for ML pipeline, training, and evaluation  
 - `csv_to_neo4j.py` – Python script to ingest structured data (CSV/TSV) into the Neo4j graph database  
@@ -39,7 +39,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Metric                | Value          |
 |----------------------|----------------|
@@ -54,7 +54,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Language**: Python 3  
 - **Database**: Neo4j Graph DB  
@@ -64,7 +64,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - Add **Graph Neural Networks (GNNs)** to capture higher-order graph features  
 - Use **Explainable AI (XAI)** frameworks (SHAP, LIME) to improve transparency  
@@ -73,7 +73,7 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 ### Requirements
 
