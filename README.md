@@ -82,9 +82,10 @@ The goal is to develop a predictive system that uses **drug bioactivity**, **dis
 - Jupyter Notebook  
 - Required Python packages (install using pip):
 
-```bash
+```
 pip install pandas numpy scikit-learn xgboost imbalanced-learn neo4j
-Steps to Run
+```
+## Steps to Run
 Clone the repo
 ```
 git clone https://github.com/yourusername/clinical-trial-predictor.git
@@ -96,7 +97,7 @@ Run csv_to_neo4j.py to import data into the database
 
 Open and run Clinical_trial_predictor.ipynb to train and evaluate the model
 
-### Acknowledgements
+## Acknowledgements
 Special thanks to Dr. Shafaq Khan for mentorship and guidance throughout the course.
 
 Let me know if you’d like me to export this into a downloadable `README.md` file, or help you generate additional content such as `requirements.txt`, Cypher scripts, or a dataset directory structure.
