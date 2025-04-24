@@ -100,8 +100,6 @@ Open and run Clinical_trial_predictor.ipynb to train and evaluate the model
 ## Acknowledgements
 Special thanks to Dr. Shafaq Khan for mentorship and guidance throughout the course.
 
-Let me know if you’d like me to export this into a downloadable `README.md` file, or help you generate additional content such as `requirements.txt`, Cypher scripts, or a dataset directory structure.
-
 
 
 
